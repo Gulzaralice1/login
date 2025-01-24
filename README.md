@@ -2,7 +2,7 @@
 
 Welcome to the **Login Project** repository! This project features a simple and secure user login interface. It is designed with responsiveness, aesthetics, and functionality in mind. 🚀
 
-![Login Form Preview](screenshort.PNG)  
+![Login Form Preview](Screenshot.png)  
 
 ---
 
