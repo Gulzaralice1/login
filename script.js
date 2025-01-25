@@ -3,9 +3,8 @@ const passwordInput = document.getElementById('password');
 const submitButton = document.getElementById('btn');
 const loginMessage = document.getElementById('login-message');
 let clickCount = 1;
-
+alert("id,password: admin");
 submitButton.addEventListener('click', (event) => {
-    alert("id,password: admin");
     console.log('Button clicked');
     console.log(`email: ${emailInput.value}`);
     console.log(`password: ${passwordInput.value}`);
